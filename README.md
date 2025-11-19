@@ -15,7 +15,7 @@
         <h3>👾 Interests</h3>
         <hr style="margin-bottom: 0;">
         -  🥋 Outside of my tech pursuits, I'm a taekwondo athlete!<br>
-        -  🎬 I love movies and draw a lot of inspirtation from their ideas!<br>
+        -  🎬 I love movies and draw a lot of inspiration from their ideas!<br>
         -  ♥️ As much as I look towards the future of gaming, I think there's some games that will always remain a favourite. I'll always return to Tetris!<br>
       </td>
     </tr>
