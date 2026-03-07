@@ -10,13 +10,13 @@
           🎮 Comp Sci Student, focused on Game Dev & AI <br>🎮 19, she/her
         </p>
         <p>
-          Hi! I'm Harkiran, a computer science student based in London. I've found my true passion to be within the gaming industry and how we can use AI to enhance user experiences but I explore all areas of computer science to really hone my ability as a programmer.
+          Hi! I'm Harkiran, a computer science student based in London. I enjoy exploring a range of programming languages and their applications but I'm currently focused on learning Python and C++.
         </p>
         <h3>👾 Interests</h3>
         <hr style="margin-bottom: 0;">
-        -  🥋 Outside of my tech pursuits, I'm a taekwondo athlete!<br>
-        -  🎬 I love movies and draw a lot of inspiration from their ideas!<br>
-        -  ♥️ As much as I look towards the future of gaming, I think there's some games that will always remain a favourite. I'll always return to Tetris!<br>
+        -  🥋 I have too many interests that keep me busy when i'm not coding. They include taekwondo, guitar, gaming and much more! <br>
+        -  🎬 I love movies and draw a lot of inspiration from their ideas! <br>
+        -  ♥️ I'm really interested in the future of computer vision and many of my projects here will link to that! <br>
       </td>
     </tr>
   </table>
