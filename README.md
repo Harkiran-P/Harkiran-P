@@ -7,7 +7,7 @@
       <td width="50%" valign="top">
         <h2>👾 Lore</h2>
         <p>
-          🎮 Comp Sci Student, focused on Game Dev & AI <br>🎮 19, she/her
+          🎮 Comp Sci Student, focused on Computer Vision and VR <br>🎮 19, she/her
         </p>
         <p>
           Hi! I'm Harkiran, a computer science student based in London. I enjoy exploring a range of programming languages and their applications but I'm currently focused on learning Python and C++.
